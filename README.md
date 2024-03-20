@@ -2,8 +2,9 @@
  <img src="https://github.com/MatheusCanesso/duots/blob/main/src/img/logo.png"/>
 <h1 font-size: 2rem; font-weight: 600; text-transform: uppercase;>Duots - Gerenciador de Projetos</h1>
 
-<p><span color=#2575e8;>Duots</span> é um gerenciador de projetos para negocios, nele é possivel criar um projeto, editar, adicionar serviços e até excluir o projeto, tudo isso utilizando o ReactJs e o NodeJs!</p>
+<p>Duots é um gerenciador de projetos para negocios, nele é possivel criar um projeto, editar, adicionar serviços e até excluir o projeto, tudo isso utilizando o ReactJs e o NodeJs!</p>
 
+$${\color{blue}Duots}$$
 <br>
 
 </br>
