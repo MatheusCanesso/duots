@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    justify-content: space-between; /*Espaçamento entre eles*/
+    background-color: rgb(25, 24, 24);
+    padding: 1em;
+    box-shadow: 0 5px 25px #151515;
+}
+
+.list {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.item {
+    margin-right: 1.5em;
+}
+
+.item a {
+    color: #cecece;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    text-decoration: none;
+}
+
+.item a:hover{
+    color: #2575e8;
+    background-color: #fff;
+}

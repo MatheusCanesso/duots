@@ -1,0 +1,14 @@
+.newproject_container {
+    width: 450px; /*Largura máxima*/
+    margin: 0 auto; /*Centralizar na tela*/
+    padding: 2em;
+}
+
+/*Os elementos vão utilizar a estilização por meio da classe pai (newproject_container)*/
+.newproject_container h1 {
+    margin-bottom: 0.5em;
+}
+
+.newproject_container p {
+    color: #7b7b7b;
+}

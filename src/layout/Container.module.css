@@ -1,0 +1,22 @@
+/*Navbar e Footer são 100% na tela*/
+.container {
+    width: 1200px; /*Largura maxima da aplicação*/
+    display: flex;
+    justify-content: space-between; /*Estilo inicial: elemento de forma igual*/
+    margin: 0 auto; /*Centralizar de acordo com a tela*/
+    flex-wrap: wrap; /*Linha automatica se ultrapassar a largura(os filhos)*/
+}
+
+.min-height {
+    min-height: 75%;
+}
+
+.start {
+    justify-content: flex-start; /*Coloca o conteúdo pro início em linha*/
+}
+
+/*Layout em coluna*/
+.column {
+    flex-direction: column;
+    justify-content: flex-start;
+}

@@ -1,0 +1,100 @@
+.project_card {
+    padding: 1em;
+    background-color: #FFF7F7;
+    border-radius: 10px;
+    width: 24%;
+    margin: 0.5%;
+    box-shadow: 0 10px 15px #151515;
+}
+
+.project_card h4 {
+    color: #2575e8;
+    padding: .4em;
+    margin-bottom: 1.3em;
+    font-size: 1.3em;
+}
+
+.project_card p {
+    color: #7a7a7a;
+    margin-bottom: 1em;
+}
+
+.project_card p span {
+    font-weight: bold;
+}
+
+.category_text {
+    display: flex;
+    align-items: center;
+}
+
+.category_text span {
+    display: block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #CCC;
+    margin-right: 5px;
+}
+
+.category_text .infraestrutura {
+    background-color: #d66113;
+}
+
+.category_text .desenvolvimento {
+    background-color: #1344d6;
+}
+
+.category_text .design {
+    background-color: #13d613;
+}
+
+.category_text .equipe {
+    background-color: #6b13d6;
+}
+
+.category_text .planejamento {
+    background-color: #d613cc;
+}
+
+.category_text .marketing {
+    background-color: #13d6c2;
+}
+
+.category_text .recursos_humanos {
+    background-color: #d61313;
+}
+
+.project_card_actions {
+    margin-top: 1.2em;
+    display: flex;
+    align-items: center;
+}
+
+.project_card_actions a,
+.project_card_actions button {
+    background-color: #FFFFFF;
+    padding: .6em 1em;
+    margin-right: 1em;
+    border: none;
+    box-shadow: 0 3px 20px #15151569;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #000000;
+    font-size: .9em;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
+}
+
+.project_card_actions svg {
+    margin-right: .5em;
+}
+
+.project_card_actions a:hover,
+.project_card_actions button:hover {
+    background-color: #2575e8;
+    color: #FFFFFF;
+}

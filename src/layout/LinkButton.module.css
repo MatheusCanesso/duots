@@ -1,0 +1,14 @@
+.btn {
+    background-color: #2575e8;
+    color: #efefef;
+    padding: 0.5em 1em; /*Padrão de botão, menor de vertical e maior na horizontal*/
+    text-decoration: none;
+    transition: 0.5s;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.btn:hover {
+    background-color: #efefef;
+    color: #2575e8;
+}

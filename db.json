@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "name": "Festa",
+      "budget": "140",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "category": "Design"
+    },
+    {
+      "id": 2,
+      "category": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "category": "Equipe"
+    },
+    {
+      "id": 4,
+      "category": "Infraestrutura"
+    },
+    {
+      "id": 5,
+      "category": "Planejamento"
+    },
+    {
+      "id": 6,
+      "category": "Marketing"
+    }
+  ]
+}

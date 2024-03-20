@@ -1,0 +1,21 @@
+.form_control {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em; /*Afasta um input do outro*/
+}
+
+.form_control label {
+    margin-bottom: .6em; /* Afasta a label do input*/
+    font-weight: bold;
+    color: #e0e0e0;
+}
+
+.form_control input {
+    padding: .7em;
+    border-radius: 5px;
+    border: none;
+}
+
+.form_control input::placeholder {
+    color: #7b7b7b;
+}
